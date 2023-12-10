@@ -10,8 +10,6 @@ Saiyaku, inspired by the Japanese term meaning "disaster" or "calamity," is a Py
 pip install saiyaku
 ```
 
----
-
 ## API
 
 ### retry decorator
@@ -132,3 +130,7 @@ This is very similar to the decorator, except that it takes a function and its a
 
     what_is_my_ip("conservative")
 ```
+
+---
+
+- This package is created based on [invl/retry](https://github.com/invl/retry) 🔥🚀
