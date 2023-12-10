@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "saiyaku"
-version = "2023.12.10.0"
+version = "2023.12.10.1"
 description = ""
 authors = ["Arter Tendean <arter.tendean.07@gmail.com>"]
 readme = "README.md"
